@@ -115,7 +115,7 @@
       "metadata": {
         "description": "デプロイする GitHub リポジトリのブランチ"
       },
-      "defaultValue": "translate-ja"
+      "defaultValue": "master"
     },
 
     "defaultCulture": {
